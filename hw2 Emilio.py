@@ -57,7 +57,7 @@ else:
 
 ### YOUR CODE HERE ###
 
-shape = input("name a shape")
+shape = input("Name a Shape")
 
 index = 0,1
 
